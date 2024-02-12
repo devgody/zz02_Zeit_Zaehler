@@ -57,4 +57,4 @@ func _on_extern_pressed():
 	OS.shell_open("https://odysee.com/@Godot_Engine_Dev:f")
 	pass # Replace with function body.
 # Jetzt schauen wir uns den Code nochmal an und testen ihn.
-# Es wurde noch keine Szene erstellt aber der Debugger macht uns gleich iene Szene.
+# Es wurde noch keine Szene erstellt aber der Debugger macht uns gleich eine Szene.
